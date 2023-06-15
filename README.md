@@ -1,4 +1,4 @@
-***Our clone asos website - (https://weathe-app-adarsh-khatri.netlify.app)***
+***Our clone asos website - (https://wheather-clone.netlify.app/)***
 # weather-app
 ### solo Project
 In this app you search search weather all the places over the globe, also you will get a detailed description of weather condition of next 7 days.
